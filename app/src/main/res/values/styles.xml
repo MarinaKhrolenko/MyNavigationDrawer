@@ -1,0 +1,12 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <style name="AppBaseTheme" parent="Theme.AppCompat.Light">
+    </style>
+
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!--<item name="android:actionBarStyle">@style/ActionBar</item>-->
+        <item name="colorPrimary">#FAF0BE</item>
+
+           </style>
+
+
+</resources>
